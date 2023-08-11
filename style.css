@@ -1,0 +1,32 @@
+h1,
+p,
+#container {
+  text-align: center;
+}
+
+.rows {
+    line-height: 20px;
+    margin: 0 auto;
+    width: auto;
+  }
+ 
+li:hover {
+    background-color: #FFFFFF;
+    transition: all 0.2s;
+  }
+
+li {
+    list-style: none;
+    border-bottom: 1px dotted #CCC;
+    height: auto;
+    background-color: #F0F0F0;
+  }
+
+.notes {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #F5F5F5;
+  }
+
+  
